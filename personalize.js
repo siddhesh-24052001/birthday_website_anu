@@ -14,11 +14,11 @@ window.BIRTHDAY = {
   ],
 
   photos: [
-    { file: "photos/1.jpg", caption: "My favourite kind of happy", position: "center" },
-    { file: "photos/2.jpg", caption: "A moment worth keeping", position: "center" },
-    { file: "photos/3.jpg", caption: "You make ordinary magical", position: "center" },
-    { file: "photos/4.jpg", caption: "And so many more to come", position: "center" },
-    { file: "photos/5.jpg", caption: "A little sunshine, a little you", position: "center" }
+    { file: "1.jpg", caption: "My favourite kind of happy", position: "center" },
+    { file: "2.jpg", caption: "A moment worth keeping", position: "center" },
+    { file: "3.jpg", caption: "You make ordinary magical", position: "center" },
+    { file: "4.jpg", caption: "And so many more to come", position: "center" },
+    { file: "5.jpg", caption: "A little sunshine, a little you", position: "center" }
   ],
 
   wishMessage: "A little wish, a whole lot of love. May your day be as beautiful as your smile. Happy birthday, beautiful! ♡"
